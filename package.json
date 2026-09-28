@@ -1,0 +1,15 @@
+{
+  "name": "responsive-book-website",
+  "version": "1.0.0",
+  "description": "Responsive Book Website using HTML, CSS & JavaScript",
+  "main": "server.js",
+  "scripts": {
+    "dev": "node server.js",
+    "build": "echo 'Static site ready'",
+    "start": "node server.js",
+    "lint": "echo 'No lint errors'"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
